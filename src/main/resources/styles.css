@@ -1,0 +1,17 @@
+/**
+Style sheet for game idea - @author Dean Howe
+ */
+
+.root {
+    -fx-background-color: black;
+}
+
+.border-pane {
+    -fx-background-color: black;
+}
+
+.text {
+    -fx-font-size: 20;
+    -fx-font-color: white;
+    -fx-font-weight: bold;
+}
